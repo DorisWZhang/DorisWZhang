@@ -1,8 +1,8 @@
 ### Hi there👋
 
-My name is Doris and I'm an incoming third year Computer Science student at the University of British Columbia!
+My name is Doris and I'm a third year Computer Science student at the University of British Columbia!
 
-🔭 I’m currently working as a Software Developer Intern at Thrive Health!
+🔭 I’m currently working as a Software Engineer Intern at NextWorld Ventures!
 
 ### Technical Skills
 
